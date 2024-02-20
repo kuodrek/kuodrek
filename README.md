@@ -17,7 +17,7 @@
 
 - Bachelor's degree in mechanical engineering
 
-- Took part of an UAV aerodesign team in a competition context! (Yes, I know how to design and build aircraft)
+- Took part of an UAV aerodesign team in a competition context! (Yes, I know how to design and build an aircraft from scratch)
 
 - I'm Brazilian
   -  🇧🇷🇧🇷 **OMG BRAZIL MENTIONED** 🇧🇷🇧🇷 
