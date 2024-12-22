@@ -1,4 +1,3 @@
-
 <h1><p  align="center"> Hello! I'm Luis ✈️ ✈️</p></h1>
 
 - Trying my best to learn everything from Computer Science!
@@ -25,8 +24,8 @@
 Some of the accomplishments that I'm proud of:
 
 - Developed an aircraft optimizer based on genetic algorithms to maximize MTOW (max. take-off weight) in a competition environment
- -  Developed a low-res-high-performance CFD Software - [lltdrek](https://github.com/kuodrek/lltdrek), go see it!
- - Developed a [non-linear 6DOF flight simulator](https://github.com/kuodrek/albatrozflightdynamics) to check the flying qualities of aircrafts;
+ -  Developed a low-res-high-performance CFD Software - [lltdrek](https://github.com/kuodrek/lltdrek)
+ - Developed a [non-linear 6DOF flight simulator](https://github.com/kuodrek/albatrozflightdynamics) to check the flying qualities of an aicraft;
 
 ### What I'm currently learning 📚
 
