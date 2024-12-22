@@ -5,11 +5,12 @@
 
 ### My stack 🥞
 
-- Python, because data 🤓☝️
-- Terraform to setup infrastructure fast (and clean!)
-- Snowflake, Databricks, BigQuery and Redshift as my main Data Warehouses
-- Docker and Kubernetes because containers are simply the best 📦
-- SQL - I pronounce it like _squeal_
+- Python
+- Terraform 
+- Snowflake, Databricks, BigQuery and Redshift
+- Docker
+- Kubernetes
+- SQL
 
 ### About Me
 
@@ -17,26 +18,21 @@
 
 - Bachelor's degree in mechanical engineering
 
-- Took part of an UAV aerodesign team in a competition context! (Yes, I know how to design and build an aircraft from scratch)
+- Took part of an UAV aerodesign competition team
 
 - I'm Brazilian
-  -  🇧🇷🇧🇷 **OMG BRAZIL MENTIONED** 🇧🇷🇧🇷 
 
 Some of the accomplishments that I'm proud of:
 
 - Developed an aircraft optimizer based on genetic algorithms to maximize MTOW (max. take-off weight) in a competition environment
  -  Developed a low-res-high-performance CFD Software - [lltdrek](https://github.com/kuodrek/lltdrek), go see it!
  - Developed a [non-linear 6DOF flight simulator](https://github.com/kuodrek/albatrozflightdynamics) to check the flying qualities of aircrafts;
- - Feel free to contact me at kuodrek@gmail.com
 
 ### What I'm currently learning 📚
 
-- Functional Programming's declarative way of life
-- Scala's scaling awesomeness
-- Apache Spark's blazing-fastness data processing
-- Apache Kafka's eventfulness events
-
-
+- Functional Programming -- Scala and Elixir
+- Golang
+- Apache Spark
 
 <div align="center">
   <a href="https://github.com/kuodrek">
